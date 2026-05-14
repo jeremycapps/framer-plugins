@@ -1,0 +1,3 @@
+[submodule "greenhouse-sync"]
+	path = greenhouse-sync
+	url = https://github.com/jeremycapps/framer-greenhouse-sync.git
